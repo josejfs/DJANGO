@@ -6,25 +6,6 @@
 
 ---
 
-<h2 align="center">📂 Projetos Django</h2>
-
-<div align="center">
-  <a href="https://github.com/josejfs/sistema-de-agendamentos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=sistema-de-agendamentos&theme=radical" />
-  </a>
-  <a href="https://github.com/josejfs/ai-driver-assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=ai-driver-assistant&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/josejfs/montanha-russa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=montanha-russa&theme=radical" />
-  </a>
-</div>
-
----
-
 <h2 align="center">🛠 Tecnologias & Ferramentas</h2>
 
 <p align="center">
